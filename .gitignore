@@ -10,7 +10,6 @@ yarn-error.log
 storybook-static
 coverage/
 website-dist
-lib
 website/play/index.vue
 packages/missfresh/version.ts
 /es/
